@@ -1,5 +1,9 @@
 
 
+<<<<<<< HEAD
 
 master commit
 + feature
+=======
+master commit
+>>>>>>> e79a3177dc707c420dd93cba39e56d82f1b7df99
